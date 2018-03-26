@@ -19,156 +19,156 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+#: ../desktop-directories/moksha-audio-video.directory.in.h:1
 msgid "Sound & Video"
 msgstr "ხმა და ვიდეო"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#: ../desktop-directories/moksha-audio-video.directory.in.h:2
 msgid "Multimedia menu"
 msgstr "მულტიმედიის მენუ"
 
-#: ../desktop-directories/lxde-development.directory.in.h:1
+#: ../desktop-directories/moksha-development.directory.in.h:1
 msgid "Programming"
 msgstr "პროგრამირება"
 
-#: ../desktop-directories/lxde-development.directory.in.h:2
+#: ../desktop-directories/moksha-development.directory.in.h:2
 msgid "Tools for software development"
 msgstr "პროგრამირების ხელსაწყოები"
 
-#: ../desktop-directories/lxde-education.directory.in.h:1
+#: ../desktop-directories/moksha-education.directory.in.h:1
 msgid "Education"
 msgstr "განათლება"
 
-#: ../desktop-directories/lxde-game.directory.in.h:1
+#: ../desktop-directories/moksha-game.directory.in.h:1
 msgid "Games"
 msgstr "თამაშები"
 
-#: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/moksha-game.directory.in.h:2
 msgid "Games and amusements"
 msgstr "თამაშები და სხვა"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:1
+#: ../desktop-directories/moksha-graphics.directory.in.h:1
 msgid "Graphics"
 msgstr "გრაფიკა"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:2
+#: ../desktop-directories/moksha-graphics.directory.in.h:2
 msgid "Graphics applications"
 msgstr "გრაფიკული პროგრამები"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:1
+#: ../desktop-directories/moksha-hardware.directory.in.h:1
 msgid "Hardware"
 msgstr ""
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:2
+#: ../desktop-directories/moksha-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
 msgstr ""
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
 msgstr ""
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
 msgstr ""
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
 msgstr ""
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
 msgstr ""
 
-#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+#: ../desktop-directories/moksha-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "პროგრამები"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#: ../desktop-directories/lxde-system.directory.in.h:1
+#: ../desktop-directories/moksha-menu-system.directory.in.h:1
+#: ../desktop-directories/moksha-system.directory.in.h:1
 #, fuzzy
 msgid "System"
 msgstr "სისტემური ხელსაწყოები"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/moksha-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
 msgstr "საკუთარი პარამეტრები და ადმინისტრაცია"
 
-#: ../desktop-directories/lxde-network.directory.in.h:1
+#: ../desktop-directories/moksha-network.directory.in.h:1
 msgid "Internet"
 msgstr "ინტერნეტი"
 
-#: ../desktop-directories/lxde-network.directory.in.h:2
+#: ../desktop-directories/moksha-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
 msgstr "პროგრამები ინტერნეტისათვის, ვები და მეილი"
 
-#: ../desktop-directories/lxde-office.directory.in.h:1
+#: ../desktop-directories/moksha-office.directory.in.h:1
 msgid "Office"
 msgstr "ოფისი"
 
-#: ../desktop-directories/lxde-office.directory.in.h:2
+#: ../desktop-directories/moksha-office.directory.in.h:2
 msgid "Office Applications"
 msgstr "საოფისე პროგრამები"
 
-#: ../desktop-directories/lxde-other.directory.in.h:1
+#: ../desktop-directories/moksha-other.directory.in.h:1
 msgid "Other"
 msgstr "სხვა"
 
-#: ../desktop-directories/lxde-other.directory.in.h:2
+#: ../desktop-directories/moksha-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
 msgstr "პროგრამები რომლებიც არც ერთ კატეგორიაში არ შედიან"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:1
+#: ../desktop-directories/moksha-personal.directory.in.h:1
 msgid "Personal"
 msgstr ""
 
-#: ../desktop-directories/lxde-personal.directory.in.h:2
+#: ../desktop-directories/moksha-personal.directory.in.h:2
 #, fuzzy
 msgid "Personal settings"
 msgstr "პერსონალური პარამეტრები"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:1
+#: ../desktop-directories/moksha-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "პარამეტრები"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:2
+#: ../desktop-directories/moksha-settings.directory.in.h:2
 msgid "Personal preferences"
 msgstr "პერსონალური პარამეტრები"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+#: ../desktop-directories/moksha-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "ადმინისტრაცია"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+#: ../desktop-directories/moksha-settings-system.directory.in.h:2
 #, fuzzy
 msgid "Change system-wide settings (affects all users)"
 msgstr "გლობალური სისტემური ცვლილებები (ვრცელდება ყველა მომხმარებელზე)"
 
-#: ../desktop-directories/lxde-system.directory.in.h:2
+#: ../desktop-directories/moksha-system.directory.in.h:2
 msgid "System settings"
 msgstr ""
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+#: ../desktop-directories/moksha-system-tools.directory.in.h:1
 msgid "System Tools"
 msgstr "სისტემური ხელსაწყოები"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+#: ../desktop-directories/moksha-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
 msgstr "სისტემის კონფიგურაცია და მონიტორინგი"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
 msgstr ""
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:2
 #, fuzzy
 msgid "Universal Access Settings"
 msgstr "დამხმარე საშუალებათა პარამეტრები"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:1
+#: ../desktop-directories/moksha-utility.directory.in.h:1
 msgid "Accessories"
 msgstr "აქსესუარები"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:2
+#: ../desktop-directories/moksha-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "სამუშაო მაგიდის აქსესუარები"
 

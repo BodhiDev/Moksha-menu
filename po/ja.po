@@ -17,152 +17,152 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+#: ../desktop-directories/moksha-audio-video.directory.in.h:1
 msgid "Sound & Video"
 msgstr "サウンドとビデオ"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#: ../desktop-directories/moksha-audio-video.directory.in.h:2
 msgid "Multimedia menu"
 msgstr "マルチメディア関連のプログラムです"
 
-#: ../desktop-directories/lxde-development.directory.in.h:1
+#: ../desktop-directories/moksha-development.directory.in.h:1
 msgid "Programming"
 msgstr "プログラミング"
 
-#: ../desktop-directories/lxde-development.directory.in.h:2
+#: ../desktop-directories/moksha-development.directory.in.h:2
 msgid "Tools for software development"
 msgstr "ソフトウェア開発者向けのツールです"
 
-#: ../desktop-directories/lxde-education.directory.in.h:1
+#: ../desktop-directories/moksha-education.directory.in.h:1
 msgid "Education"
 msgstr "教育・教養"
 
-#: ../desktop-directories/lxde-game.directory.in.h:1
+#: ../desktop-directories/moksha-game.directory.in.h:1
 msgid "Games"
 msgstr "ゲーム"
 
-#: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/moksha-game.directory.in.h:2
 msgid "Games and amusements"
 msgstr "気晴しにゲームをどうぞ"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:1
+#: ../desktop-directories/moksha-graphics.directory.in.h:1
 msgid "Graphics"
 msgstr "グラフィックス"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:2
+#: ../desktop-directories/moksha-graphics.directory.in.h:2
 msgid "Graphics applications"
 msgstr "グラフィックス関連のアプリケーションです"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:1
+#: ../desktop-directories/moksha-hardware.directory.in.h:1
 msgid "Hardware"
 msgstr "ハードウェア"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:2
+#: ../desktop-directories/moksha-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
 msgstr "使用するハードウェア・デバイスを設定します"
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
 msgstr "インターネットとネットワーク"
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
 msgstr "ネットワークに関連する設定を行います"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
 msgstr "ルック＆フィール"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
 msgstr "デスクトップの外観や動きを調整します"
 
-#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+#: ../desktop-directories/moksha-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "アプリケーション"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#: ../desktop-directories/lxde-system.directory.in.h:1
+#: ../desktop-directories/moksha-menu-system.directory.in.h:1
+#: ../desktop-directories/moksha-system.directory.in.h:1
 msgid "System"
 msgstr "システム"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/moksha-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
 msgstr "個人設定と管理者向けの設定ツールです"
 
-#: ../desktop-directories/lxde-network.directory.in.h:1
+#: ../desktop-directories/moksha-network.directory.in.h:1
 msgid "Internet"
 msgstr "インターネット"
 
-#: ../desktop-directories/lxde-network.directory.in.h:2
+#: ../desktop-directories/moksha-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
 msgstr "ウェブやメールなどインターネットにアクセスのためのプログラムです"
 
-#: ../desktop-directories/lxde-office.directory.in.h:1
+#: ../desktop-directories/moksha-office.directory.in.h:1
 msgid "Office"
 msgstr "オフィス"
 
-#: ../desktop-directories/lxde-office.directory.in.h:2
+#: ../desktop-directories/moksha-office.directory.in.h:2
 msgid "Office Applications"
 msgstr "オフィス・アプリケーションです"
 
-#: ../desktop-directories/lxde-other.directory.in.h:1
+#: ../desktop-directories/moksha-other.directory.in.h:1
 msgid "Other"
 msgstr "その他"
 
-#: ../desktop-directories/lxde-other.directory.in.h:2
+#: ../desktop-directories/moksha-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
 msgstr "他のカテゴリにあてはまらないアプリケーション"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:1
+#: ../desktop-directories/moksha-personal.directory.in.h:1
 msgid "Personal"
 msgstr "ユーザ向け"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:2
+#: ../desktop-directories/moksha-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "ユーザ向けの設定を変更します"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:1
+#: ../desktop-directories/moksha-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "設定"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:2
+#: ../desktop-directories/moksha-settings.directory.in.h:2
 msgid "Personal preferences"
 msgstr "ユーザ専用の設定"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+#: ../desktop-directories/moksha-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "システム管理"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+#: ../desktop-directories/moksha-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
 msgstr "システム規模の設定を変更します (全てのユーザに影響します)"
 
-#: ../desktop-directories/lxde-system.directory.in.h:2
+#: ../desktop-directories/moksha-system.directory.in.h:2
 msgid "System settings"
 msgstr "システム規模の設定を変更します"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+#: ../desktop-directories/moksha-system-tools.directory.in.h:1
 msgid "System Tools"
 msgstr "システムツール"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+#: ../desktop-directories/moksha-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
 msgstr "システムの設定と監視を行うプログラムです"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
 msgstr "ユニバーサル・アクセス"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
 msgstr "ユニバーサル・アクセスの設定を変更します"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:1
+#: ../desktop-directories/moksha-utility.directory.in.h:1
 msgid "Accessories"
 msgstr "アクセサリ"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:2
+#: ../desktop-directories/moksha-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "デスクトップ用のアクセサリーです"
 

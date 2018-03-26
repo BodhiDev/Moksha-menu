@@ -18,152 +18,152 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Lokalize 2.0\n"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+#: ../desktop-directories/moksha-audio-video.directory.in.h:1
 msgid "Sound & Video"
 msgstr "Audio e video"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#: ../desktop-directories/moksha-audio-video.directory.in.h:2
 msgid "Multimedia menu"
 msgstr "Menu multimedia"
 
-#: ../desktop-directories/lxde-development.directory.in.h:1
+#: ../desktop-directories/moksha-development.directory.in.h:1
 msgid "Programming"
 msgstr "Programmazione"
 
-#: ../desktop-directories/lxde-development.directory.in.h:2
+#: ../desktop-directories/moksha-development.directory.in.h:2
 msgid "Tools for software development"
 msgstr "Strumenti per lo sviluppo software"
 
-#: ../desktop-directories/lxde-education.directory.in.h:1
+#: ../desktop-directories/moksha-education.directory.in.h:1
 msgid "Education"
 msgstr "Istruzione"
 
-#: ../desktop-directories/lxde-game.directory.in.h:1
+#: ../desktop-directories/moksha-game.directory.in.h:1
 msgid "Games"
 msgstr "Giochi"
 
-#: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/moksha-game.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Giochi e passatempi"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:1
+#: ../desktop-directories/moksha-graphics.directory.in.h:1
 msgid "Graphics"
 msgstr "Grafica"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:2
+#: ../desktop-directories/moksha-graphics.directory.in.h:2
 msgid "Graphics applications"
 msgstr "Applicazioni grafiche"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:1
+#: ../desktop-directories/moksha-hardware.directory.in.h:1
 msgid "Hardware"
 msgstr "Hardware"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:2
+#: ../desktop-directories/moksha-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
 msgstr "Impostazioni per parecchi dispositivi hardware"
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
 msgstr "Internet e rete"
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
 msgstr "Impostazioni relative alla rete"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
 msgstr "Aspetto e stile"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
 msgstr "Impostazioni che controllano l'aspetto e il comportamento del desktop"
 
-#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+#: ../desktop-directories/moksha-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Applicazioni"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#: ../desktop-directories/lxde-system.directory.in.h:1
+#: ../desktop-directories/moksha-menu-system.directory.in.h:1
+#: ../desktop-directories/moksha-system.directory.in.h:1
 msgid "System"
 msgstr "Sistema"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/moksha-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
 msgstr "Preferenze personali e impostazioni di amministrazione"
 
-#: ../desktop-directories/lxde-network.directory.in.h:1
+#: ../desktop-directories/moksha-network.directory.in.h:1
 msgid "Internet"
 msgstr "Internet"
 
-#: ../desktop-directories/lxde-network.directory.in.h:2
+#: ../desktop-directories/moksha-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
 msgstr "Programmi per l'accesso a Internet come web ed email"
 
-#: ../desktop-directories/lxde-office.directory.in.h:1
+#: ../desktop-directories/moksha-office.directory.in.h:1
 msgid "Office"
 msgstr "Ufficio"
 
-#: ../desktop-directories/lxde-office.directory.in.h:2
+#: ../desktop-directories/moksha-office.directory.in.h:2
 msgid "Office Applications"
 msgstr "Applicazioni da ufficio"
 
-#: ../desktop-directories/lxde-other.directory.in.h:1
+#: ../desktop-directories/moksha-other.directory.in.h:1
 msgid "Other"
 msgstr "Altro"
 
-#: ../desktop-directories/lxde-other.directory.in.h:2
+#: ../desktop-directories/moksha-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
 msgstr "Applicazioni che non rientrano in altre categorie"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:1
+#: ../desktop-directories/moksha-personal.directory.in.h:1
 msgid "Personal"
 msgstr "Personale"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:2
+#: ../desktop-directories/moksha-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Impostazioni personali"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:1
+#: ../desktop-directories/moksha-settings.directory.in.h:1
 msgid "Preferences"
 msgstr "Preferenze"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:2
+#: ../desktop-directories/moksha-settings.directory.in.h:2
 msgid "Personal preferences"
 msgstr "Preferenze personali"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+#: ../desktop-directories/moksha-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "Amministrazione"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+#: ../desktop-directories/moksha-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
 msgstr "Modifica impostazioni di sistema (influenzano tutti gli utenti)"
 
-#: ../desktop-directories/lxde-system.directory.in.h:2
+#: ../desktop-directories/moksha-system.directory.in.h:2
 msgid "System settings"
 msgstr "Impostazioni di sistema"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+#: ../desktop-directories/moksha-system-tools.directory.in.h:1
 msgid "System Tools"
 msgstr "Strumenti di sistema"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+#: ../desktop-directories/moksha-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
 msgstr "Configurazione e monitoraggio del sistema"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
 msgstr "Accesso universale"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
 msgstr "Impostazioni accesso universale"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:1
+#: ../desktop-directories/moksha-utility.directory.in.h:1
 msgid "Accessories"
 msgstr "Accessori"
 
-#: ../desktop-directories/lxde-utility.directory.in.h:2
+#: ../desktop-directories/moksha-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr "Accessori del desktop"
 

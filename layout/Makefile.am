@@ -3,7 +3,7 @@ NULL =
 menudir = $(sysconfdir)/xdg/menus
 
 menu_DATA =               		\
-	lxde-applications.menu		\
+	e-applications.menu		\
 	$(NULL)
 
 EXTRA_DIST= $(menu_DATA)

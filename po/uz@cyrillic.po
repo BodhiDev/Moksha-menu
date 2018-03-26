@@ -17,154 +17,154 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:1
+#: ../desktop-directories/moksha-audio-video.directory.in.h:1
 msgid "Sound & Video"
 msgstr "Товуш ва видео"
 
-#: ../desktop-directories/lxde-audio-video.directory.in.h:2
+#: ../desktop-directories/moksha-audio-video.directory.in.h:2
 msgid "Multimedia menu"
 msgstr "Мултимедиа менюси"
 
-#: ../desktop-directories/lxde-development.directory.in.h:1
+#: ../desktop-directories/moksha-development.directory.in.h:1
 msgid "Programming"
 msgstr "Дастурлаш"
 
-#: ../desktop-directories/lxde-development.directory.in.h:2
+#: ../desktop-directories/moksha-development.directory.in.h:2
 msgid "Tools for software development"
 msgstr "Дастурлаш учун воситалар"
 
-#: ../desktop-directories/lxde-education.directory.in.h:1
+#: ../desktop-directories/moksha-education.directory.in.h:1
 msgid "Education"
 msgstr "Таълим"
 
-#: ../desktop-directories/lxde-game.directory.in.h:1
+#: ../desktop-directories/moksha-game.directory.in.h:1
 msgid "Games"
 msgstr "Ўйинлар"
 
-#: ../desktop-directories/lxde-game.directory.in.h:2
+#: ../desktop-directories/moksha-game.directory.in.h:2
 msgid "Games and amusements"
 msgstr "Ўйинлар ва кўнгилочар дастурлар"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:1
+#: ../desktop-directories/moksha-graphics.directory.in.h:1
 msgid "Graphics"
 msgstr "Графика"
 
-#: ../desktop-directories/lxde-graphics.directory.in.h:2
+#: ../desktop-directories/moksha-graphics.directory.in.h:2
 msgid "Graphics applications"
 msgstr "Графика дастурлари"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:1
+#: ../desktop-directories/moksha-hardware.directory.in.h:1
 msgid "Hardware"
 msgstr "Асбоб-ускуналар"
 
-#: ../desktop-directories/lxde-hardware.directory.in.h:2
+#: ../desktop-directories/moksha-hardware.directory.in.h:2
 msgid "Settings for several hardware devices"
 msgstr ""
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:1
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:1
 msgid "Internet and Network"
 msgstr "Интернет ва тармоқ"
 
-#: ../desktop-directories/lxde-internet-and-network.directory.in.h:2
+#: ../desktop-directories/moksha-internet-and-network.directory.in.h:2
 msgid "Network-related settings"
 msgstr "Тармоққа оид мосламалар"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:1
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:1
 msgid "Look and Feel"
 msgstr "Ташқи кўриниши"
 
-#: ../desktop-directories/lxde-look-and-feel.directory.in.h:2
+#: ../desktop-directories/moksha-look-and-feel.directory.in.h:2
 msgid "Settings controlling the desktop appearance and behavior"
 msgstr "Иш столининг ташқи кўриниши ва хусусиятларига оид мосламалар"
 
-#: ../desktop-directories/lxde-menu-applications.directory.in.h:1
+#: ../desktop-directories/moksha-menu-applications.directory.in.h:1
 msgid "Applications"
 msgstr "Дастурлар"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:1
-#: ../desktop-directories/lxde-system.directory.in.h:1
+#: ../desktop-directories/moksha-menu-system.directory.in.h:1
+#: ../desktop-directories/moksha-system.directory.in.h:1
 msgid "System"
 msgstr "Тизим"
 
-#: ../desktop-directories/lxde-menu-system.directory.in.h:2
+#: ../desktop-directories/moksha-menu-system.directory.in.h:2
 msgid "Personal preferences and administration settings"
 msgstr ""
 
-#: ../desktop-directories/lxde-network.directory.in.h:1
+#: ../desktop-directories/moksha-network.directory.in.h:1
 msgid "Internet"
 msgstr "Интернет"
 
-#: ../desktop-directories/lxde-network.directory.in.h:2
+#: ../desktop-directories/moksha-network.directory.in.h:2
 msgid "Programs for Internet access such as web and email"
 msgstr "Веб браузер ва эл.почта каби интернет билан ишлаш дастурлари"
 
-#: ../desktop-directories/lxde-office.directory.in.h:1
+#: ../desktop-directories/moksha-office.directory.in.h:1
 msgid "Office"
 msgstr "Офис"
 
-#: ../desktop-directories/lxde-office.directory.in.h:2
+#: ../desktop-directories/moksha-office.directory.in.h:2
 msgid "Office Applications"
 msgstr "Офис дастурлари"
 
-#: ../desktop-directories/lxde-other.directory.in.h:1
+#: ../desktop-directories/moksha-other.directory.in.h:1
 msgid "Other"
 msgstr "Бошқа"
 
-#: ../desktop-directories/lxde-other.directory.in.h:2
+#: ../desktop-directories/moksha-other.directory.in.h:2
 msgid "Applications that did not fit in other categories"
 msgstr "Ҳеч қайси туркумга кирмайдиган дастурлар"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:1
+#: ../desktop-directories/moksha-personal.directory.in.h:1
 msgid "Personal"
 msgstr "Шахсий"
 
-#: ../desktop-directories/lxde-personal.directory.in.h:2
+#: ../desktop-directories/moksha-personal.directory.in.h:2
 msgid "Personal settings"
 msgstr "Шахсий мосламалар"
 
-#: ../desktop-directories/lxde-settings.directory.in.h:1
+#: ../desktop-directories/moksha-settings.directory.in.h:1
 msgid "Preferences"
 msgstr ""
 
-#: ../desktop-directories/lxde-settings.directory.in.h:2
+#: ../desktop-directories/moksha-settings.directory.in.h:2
 msgid "Personal preferences"
 msgstr ""
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:1
+#: ../desktop-directories/moksha-settings-system.directory.in.h:1
 msgid "Administration"
 msgstr "Бошқарув"
 
-#: ../desktop-directories/lxde-settings-system.directory.in.h:2
+#: ../desktop-directories/moksha-settings-system.directory.in.h:2
 msgid "Change system-wide settings (affects all users)"
 msgstr ""
 "Бутун тизимга оид мосламаларни ўзгартириш (барча фойдаланувчиларга таъсир "
 "қилади)"
 
-#: ../desktop-directories/lxde-system.directory.in.h:2
+#: ../desktop-directories/moksha-system.directory.in.h:2
 msgid "System settings"
 msgstr "Тизим мосламалари"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:1
+#: ../desktop-directories/moksha-system-tools.directory.in.h:1
 msgid "System Tools"
 msgstr "Тизим воситалари"
 
-#: ../desktop-directories/lxde-system-tools.directory.in.h:2
+#: ../desktop-directories/moksha-system-tools.directory.in.h:2
 msgid "System configuration and monitoring"
 msgstr "Тизимни мослаш ва кузатиш"
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:1
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:1
 msgid "Universal Access"
 msgstr ""
 
-#: ../desktop-directories/lxde-utility-accessibility.directory.in.h:2
+#: ../desktop-directories/moksha-utility-accessibility.directory.in.h:2
 msgid "Universal Access Settings"
 msgstr ""
 
-#: ../desktop-directories/lxde-utility.directory.in.h:1
+#: ../desktop-directories/moksha-utility.directory.in.h:1
 msgid "Accessories"
 msgstr ""
 
-#: ../desktop-directories/lxde-utility.directory.in.h:2
+#: ../desktop-directories/moksha-utility.directory.in.h:2
 msgid "Desktop accessories"
 msgstr ""
 

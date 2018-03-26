@@ -1,8 +1,8 @@
-AC_INIT([lxmenu-data], [0.1.5],
-        [http://lxde.org/])
+AC_INIT([moksha-menu], [0.1.0],
+        [http://mokshadesktop.org/])
 AM_INIT_AUTOMAKE([foreign no-dist-gzip dist-xz])
 
-GETTEXT_PACKAGE=lxmenu-data
+GETTEXT_PACKAGE=moksha-menu
 AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE, "$GETTEXT_PACKAGE", [Name of default gettext domain])
 AC_SUBST(GETTEXT_PACKAGE)
 

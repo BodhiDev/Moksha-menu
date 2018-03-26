@@ -1,10 +1,8 @@
 This package provides files required to build freedesktop.org 
-menu spec-compliant desktop menus for LXDE.
+menu spec-compliant desktop menus for Moksha.
 
-The files are originally taken from gnome-menus, and some minor
+The files are originally taken from lxmenu-data, and some minor
 modifications were made.
-
-lxmenu-data package is required by lxpanel and lxlauncher.
 
 For package maintainers, please use the following configure options:
 ./configure --prefix=/usr --sysconfdir=/etc

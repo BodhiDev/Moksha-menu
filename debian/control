@@ -1,0 +1,18 @@
+Source: moksha-menu
+Section: x11
+Priority: optional
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Build-Depends: debhelper (>= 9), autotools-dev, intltool
+Standards-Version: 3.9.8
+Homepage: http://mokshadesktop.org
+
+
+Package: moksha-menu
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Moksha freedesktop.org menu specification
+ Moksha-menu is a component for the Moksha Desktop Environment.
+ .
+ It contains files required to build desktop menus for Moksha complying to the
+ freedesktop.org menu specification.
