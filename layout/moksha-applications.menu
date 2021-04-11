@@ -15,10 +15,8 @@
 	<!-- Read standard .directory and .desktop file locations -->
 	<DefaultAppDirs/>
 	<DefaultDirectoryDirs/>
-
-	<!-- Read in overrides and child menus from applications-merged/ -->
 	<DefaultMergeDirs/>
-
+	
 	<!-- Accessories submenu -->
 	<Menu>
 		<Name>Accessories</Name>
@@ -35,6 +33,12 @@
 				<Not><Category>Development</Category></Not>
 			</And>
 		</Include>
+		<Exclude>
+			<Filename>info.desktop</Filename> 
+			<Or>
+				<Category>X-XFCE</Category>
+			</Or>
+		</Exclude>
 	</Menu> <!-- End Accessories -->
 
 	<!-- Accessibility submenu -->
@@ -59,6 +63,12 @@
 			</And>
 			<Filename>emacs.desktop</Filename>
 		</Include>
+		<Exclude>
+			<Or>
+				<Filename>elementary_perf.desktop</Filename>
+				<Filename>elementary_test.desktop</Filename>
+			</Or>
+		</Exclude>
 	</Menu> <!-- End Development Tools -->
 
 	<!-- Education -->
@@ -119,10 +129,14 @@
 		<Name>Internet</Name>
 		<Directory>moksha-network.directory</Directory>
 		<Include>
-			<And>
-				<Category>Network</Category>
-			</And>
+			<Category>Network</Category>
 		</Include>
+		<Exclude>
+			<Or>
+				<Filename>exo-mail-reader.desktop</Filename>
+				<Filename>exo-web-browser.desktop</Filename>
+			</Or>
+		</Exclude>
 	</Menu>	 <!-- End Internet -->
 
 	<!-- Multimedia -->
@@ -130,9 +144,9 @@
 		<Name>Multimedia</Name>
 		<Directory>moksha-audio-video.directory</Directory>
 		<Include>
-			<And>
-				<Category>AudioVideo</Category>
-			</And>
+			<Category>Audio</Category>
+			<Category>Video</Category>
+			<Category>AudioVideo</Category>
 		</Include>
 	</Menu>	 <!-- End Multimedia -->
 
@@ -152,14 +166,45 @@
 		<Name>System</Name>
 		<Directory>moksha-system-tools.directory</Directory>
 		<Include>
-			<And>
+			<Filename>nm-connection-editor.desktop</Filename> 
+			<Or>
+				<Category>Emulator</Category>
 				<Category>System</Category>
-				<Not><Category>Settings</Category></Not>
-				<Not><Category>PackageManager</Category></Not>
-				<Not><Category>Game</Category></Not>
-			</And>
+			</Or>
 		</Include>
+		<Layout>
+			<Filename>ubiquity.desktop</Filename>
+			<Filename>bodhi-appcenter.desktop</Filename>
+			<Filename>synaptic.desktop</Filename>
+			<Filename>bodhi-help.desktop</Filename>
+			<Separator/>
+			<Merge type="menus"/>
+			<Merge type="files"/>
+		</Layout>
 	</Menu>	 <!-- End System Tools -->
+
+	<!-- Preferences -->
+	<Menu>
+		<Name>DesktopSettings</Name>
+		<Directory>moksha-settings.directory</Directory>
+		<OnlyUnallocated/>
+		<Include>
+			<Category>Settings</Category>
+		</Include>
+		<Exclude>
+			<Category>XFCE</Category>
+			<Or>
+				<Filename>elementary_config.desktop</Filename>
+				<Category>Emulator</Category>
+				<Category>System</Category>
+			</Or>
+		</Exclude>
+		<Layout>
+			<Merge type="menus"/>
+			<Merge type="files"/>
+		</Layout>
+
+	</Menu> <!-- Preferences -->
 
 	<!-- Other -->
 	<Menu>
@@ -173,25 +218,7 @@
 				<Not><Category>Screensaver</Category></Not>
 			</And>
 		</Include>
-		</Menu> <!-- End Other -->
-
-	<Menu>
-		<Name>DesktopSettings</Name>
-		<Directory>moksha-settings.directory</Directory>
-		<OnlyUnallocated/>
-		<Include>
-			<Or>
-				<Category>Settings</Category>
-				<Category>PackageManager</Category>
-				<Category>System</Category>
-			</Or>
-		</Include>
-		<Layout>
-			<Merge type="menus"/>
-			<Merge type="files"/>
-		</Layout>
-
-	</Menu> <!-- End Settings -->
+	</Menu> <!-- End Other -->
 
 	<!-- Debian menu -->
 	<Menu>
@@ -199,12 +226,9 @@
 		<Directory>moksha-debian.directory</Directory>
 		<MergeFile>debian-menu.menu</MergeFile>
 	</Menu>
-
+	
 	<Layout>
-		<Merge type="files"/>
-		<Merge type="menus"/>
-		<Separator/>
-		<Menuname>DesktopSettings</Menuname>
+		<Merge type="all"/>
 	</Layout>
 
 </Menu> <!-- End Applications -->
