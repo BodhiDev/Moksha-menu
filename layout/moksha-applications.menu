@@ -35,6 +35,7 @@
 		</Include>
 		<Exclude>
 			<Filename>info.desktop</Filename> 
+			<Filename>yelp.desktop</Filename> 
 			<Or>
 				<Category>X-XFCE</Category>
 			</Or>
@@ -195,6 +196,7 @@
 			<Category>XFCE</Category>
 			<Or>
 				<Filename>elementary_config.desktop</Filename>
+				<Filename>im-config.desktop</Filename>
 				<Category>Emulator</Category>
 				<Category>System</Category>
 			</Or>
